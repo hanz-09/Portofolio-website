@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+/* nav {
+    
+} */
+
+h1 {
+    color: #000000;
+}
+
+.about {
+    padding: 5%;
+    padding-top: 3%;
+}
+
+.project {
+    padding: 5%;
+    padding-top: 1%;
+    border-top: #000000 1px solid;
+    border-bottom: #000000 1px solid;
+    background-color: whitesmoke;
+}
+
+.project p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    text-align: center;
+}
+
+.education {
+    padding: 5%;
+    padding-top: 15%;
+    padding-left: 0%;
+}
+
+.education h1 {
+    display: flex;
+    justify-content: end;
+}
+
