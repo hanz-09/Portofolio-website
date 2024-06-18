@@ -45,3 +45,7 @@ h1 {
 .footer {
     padding-bottom: 0%;
 }
+
+html {
+    scroll-behavior: smooth;
+}
